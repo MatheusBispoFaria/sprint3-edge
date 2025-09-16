@@ -76,3 +76,5 @@ No evento, apresenta o QR Code no ponto de registro.
 O ESP32 lê e envia os dados para o sistema.
 
 Se válido, a presença é confirmada automaticamente.
+
+👉 Link do Vídeo Explicativo [Sprint3 Edge](https://youtu.be/Kbr5rljgnfE?si=yGvHJqcRbJOsZDLU)
